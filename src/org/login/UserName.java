@@ -5,13 +5,13 @@ public class UserName {
 
 	//method (ctrl + space)
 	private void phoneNo() {
-		System.out.println("123456789");
+		System.out.println("1111111111");
 	
 
 }
 	
 	private void email() {
-		System.out.println("pavithra.mba@gmail.com");
+		System.out.println("demo@gmail.com");
 	
 	
 }
